@@ -10,7 +10,25 @@ This repository contains a guide to learning C#. The guide covers the basics of 
 
 
 
- **After you install IDE and now we will start to learn the C# more.**
+ **After you install IDE and now we will start to learn the C# language more.**
+
+
+ ### Let's talk about the code structure, and what we learn from it.
+
+ ```c#
+using System;
+
+namespace Project
+{
+class Programm
+{
+static void Main(string[] args)
+{
+console.writeLine("Hello World!")
+}
+}
+}
+```
 
 
  
