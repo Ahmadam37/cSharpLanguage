@@ -38,3 +38,6 @@ namespace Project
 * **static void Main(string[] args)** in tihs it include **Main** method, it is the start or any application in c#, the **Main** Specifies the action of the class when running
 * **console.writeLine("Hello World!");**, this statment will executed by the **Main** method, it will print
 > Hello World!
+
+
+**Now we learn the template structure in C# Language**
