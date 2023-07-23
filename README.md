@@ -283,7 +283,7 @@ namespace Project
 
 4. Switch
    * In this section we will learn how to use **Switch** and how to declare it.
-       * 
+       * switch case statement executes code of one of the conditions based on a pattern match with the specified match expression
 ```c#
   using System;
 
