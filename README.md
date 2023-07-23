@@ -280,3 +280,35 @@ namespace Project
    }
   }
 ```
+
+4. Switch
+   * In this section we will learn how to use **Switch** and how to declare it.
+       * 
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+           int season = 3;
+           switch(season)
+           {
+             case 1:
+             Console.WriteLine("Winter");
+             break;
+             case 2:
+             Console.WriteLine("Summer");
+             break;
+             case 2:
+             Console.WriteLine("Spring");
+             break;
+             default:
+             Console.WriteLine("not Season");
+             break;
+           }
+        }
+  }
+```
