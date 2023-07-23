@@ -232,3 +232,51 @@ namespace Project
    }
   }
 ```
+
+2. if with else condition
+   * Here we will learn how to use **if** with **else** and how to declare it.
+       * In this program the **if** condition will check the value of "age" and if the value greater than 18 the program will print "adult" else will print not adult.
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+           int age = 13;
+           if(age >= 18 ){
+               console.writeLine("adult");
+             }else{
+               console.writeLine("not adult");
+             }
+        }teenager
+   }
+  }
+```
+
+3. else if condition
+   * Here we will learn how to use **if** with **else** and how to declare it.
+       * In this program the **if** condition will check the value of "age" and if the value greater than 19 the program will print "adult" else if the age grater than or equal 13 and age lessthan or equal 19 will print teneeger else will print young.
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+           int age = 13;
+           if(age > 19 ){
+               console.writeLine("adult");
+             }else if (age >= 13 && age <= 19){
+               console.writeLine("teenager");
+             }else{
+              console.writeLine("young");
+             }
+        }
+   }
+  }
+```
