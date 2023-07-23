@@ -83,7 +83,7 @@ namespace Project
 * Comments in c#
    * In this example we can see we have to kind of comments
        1. You can comment one line by using "//" two forward slash.
-       2. You can comment muktile lines by using in start line "*/" then the last line you want to comment use "/*"
+       2. You can comment muktile lines by using in start line "/* " then the last line you want to comment use "*/"
 ```c#
   using System;
 
@@ -95,9 +95,9 @@ namespace Project
         {
             // var a = "Ahmad"; 
             //console.writeLine(a);
-            */ var a = "Ahmad"; 
+            /* var a = "Ahmad"; 
            console.writeLine(a);
-           /*
+           */
         }
    }
   }
