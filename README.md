@@ -108,7 +108,7 @@ namespace Project
 ### Data Types:
 1. String
  
-In this section we learn one of data types **string**, and how to declare it.
+    * In this section we learn one of data types **string**, and how to declare it.
 
 ```c#
   using System;
@@ -129,7 +129,7 @@ In this section we learn one of data types **string**, and how to declare it.
 
 
 2. int
-In this section we learn one of data types **int**, and how to declare it.
+    * In this section we learn one of data types **int**, and how to declare it.
 ```c#
   using System;
 
@@ -149,7 +149,7 @@ In this section we learn one of data types **int**, and how to declare it.
 ```
 
 3. Double
-In this section we learn one of data types **Double**, and how to declare it.
+   * In this section we learn one of data types **Double**, and how to declare it.
 ```c#
   using System;
 
@@ -169,7 +169,7 @@ In this section we learn one of data types **Double**, and how to declare it.
 ```
 
 4. Boolean.
-In this section we learn one of data types **Double**, and how to declare it.
+   * In this section we learn one of data types **Double**, and how to declare it.
 ```c#
   using System;
 
@@ -188,7 +188,7 @@ In this section we learn one of data types **Double**, and how to declare it.
   }
 ```
 5. Constatn in c#
-In this section we learn one of data types **constant**, and how to declare it.
+     * In this section we learn one of data types **constant**, and how to declare it.
 ```c#
   using System;
 
