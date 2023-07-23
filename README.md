@@ -41,3 +41,20 @@ namespace Project
 
 
 **Now we learn the template structure in C# Language**
+
+* How to Declare a varible in C#?
+  ```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+             var a = "Ahmad";
+             console.writeLine(a);
+        }
+   }
+  }
+  ```
