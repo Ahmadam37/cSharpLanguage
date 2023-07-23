@@ -210,3 +210,25 @@ namespace Project
 * You can use these conditions to perform different actions for different decisions.
 
 ![image](https://github.com/Ahmadam37/cSharpLanguage/assets/51037193/d9bcf43f-bfb6-4091-b655-0457c2e518ef)
+
+
+1. if condition:
+    * Here we will use **if** condition, and we will know how to work and how to declare it.
+        * In this program the **if** condition will check the value of "age" and if the value greater than 18 the program will print "adult".
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+           int age = 13;
+           if(age >= 18 ){
+               console.writeLine(adult);
+             }
+        }
+   }
+  }
+```
