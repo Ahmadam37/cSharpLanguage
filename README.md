@@ -52,7 +52,7 @@ namespace Project
    {
         static void Main(string[] args)
         {
-             var a = "Ahmad";
+             var a = "Ahmad"; //Here we declare a new varible in c#
              console.writeLine(a);
         }
    }
