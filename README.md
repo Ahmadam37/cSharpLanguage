@@ -102,3 +102,106 @@ namespace Project
    }
   }
 ```
+
+
+
+### Data Types:
+1. String
+ 
+In this section we learn one of data types **string**, and how to declare it.
+
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+            string myName = "Ahmad"; 
+            console.writeLine(a);
+          
+        }
+   }
+  }
+```
+
+
+2. int
+In this section we learn one of data types **int**, and how to declare it.
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+            string myName = "Ahmad";
+            var myName2 = "Ahmad";
+            console.writeLine(myName + "" + myName2);
+          
+        }
+   }
+  }
+```
+
+3. Double
+In this section we learn one of data types **Double**, and how to declare it.
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+            double firstDouble = 4.8;
+            var secondDouble = 4.9;
+            console.writeLine(a);
+          
+        }
+   }
+  }
+```
+
+4. Boolean.
+In this section we learn one of data types **Double**, and how to declare it.
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+            double firstDouble = 4.8;
+            var secondDouble = 4.9;
+            console.writeLine(a);
+          
+        }
+   }
+  }
+```
+5. Constatn in c#
+In this section we learn one of data types **constant**, and how to declare it.
+```c#
+  using System;
+
+  namespace Project
+  {
+   class Programm
+   {
+        static void Main(string[] args)
+        {
+            const int constantInt = 13;
+            console.writeLine(constantInt);
+          
+        }
+   }
+  }
+```
