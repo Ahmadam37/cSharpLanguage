@@ -207,3 +207,5 @@ namespace Project
 ```
 
 ### Conditions
+* You can use these conditions to perform different actions for different decisions.
+![image](https://github.com/Ahmadam37/cSharpLanguage/assets/51037193/d9bcf43f-bfb6-4091-b655-0457c2e518ef)
